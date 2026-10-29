@@ -1,0 +1,366 @@
+crop,admin1,admin2,market,latitude,longitude,mean_price,median_price,n
+Beans,Coast,Kilifi,Kilifi,-3.63,39.85,105.06666666666666,105.95,12
+Beans,Coast,Mombasa,Bangladesh (Mombasa),-4.01,39.63,104.71714285714286,106.36,7
+Beans,Coast,Mombasa,Junda (Mombasa),-4.01,39.68,99.66,100,7
+Beans,Coast,Mombasa,Kalahari (Mombasa),-4.03,39.63,102.34777777777778,103.75,9
+Beans,Coast,Mombasa,Kisumu Ndogo (Mombasa),-4.04,39.69,104.23,100,5
+Beans,Coast,Mombasa,Moroto (Mombasa),-4.03,39.66,106.16333333333333,104.83500000000001,6
+Beans,Coast,Mombasa,Shauri Yako,-4.04,39.69,141.33333333333334,147,3
+Beans,Coast,Mombasa,Shonda (Mombasa),-4.11,39.65,98.77833333333334,99.375,6
+Beans,Coast,Taita Taveta,Mtito Andei,-2.69,38.16,154,154,1
+Beans,Coast,Tana River,Adele Center,-0.47,39.61,160,160,1
+Beans,Coast,Tana River,Bangale,-0.72,39.02,166,169,4
+Beans,Coast,Tana River,Bilbil,-1.01,39.79,174,169,3
+Beans,Coast,Tana River,Boka,-0.34,38.78,179.25,173,4
+Beans,Coast,Tana River,Bura,-1.19,39.84,161.75,164,4
+Beans,Coast,Tana River,Charidende,-0.78,39.67,164.75,162.5,4
+Beans,Coast,Tana River,Garsen,-2.27,40.11,167.125,169.5,4
+Beans,Coast,Tana River,Hola town,-1.5,40.03,166.5,164.5,4
+Beans,Coast,Tana River,Kipini,-2.53,40.53,142.33333333333334,140,3
+Beans,Coast,Tana River,Makere,-1.33,40.01,166.5,157,4
+Beans,Coast,Tana River,Masalani,-1.7,40.17,153,153,1
+Beans,Coast,Tana River,Minjila,-2.32,40.11,153,153,1
+Beans,Coast,Tana River,Saka Town,-0.14,39.33,161,152,4
+Beans,Coast,Tana River,Tarasaa,-2.44,40.17,156.25,161.5,4
+Beans,Coast,Tana River,Waldena,-1.61,39.03,159,159,1
+Beans,Coast,Tana River,Wayu,-1.53,39.58,178.75,179.5,4
+Beans,Eastern,Isiolo,Benane,0.5,38.66,166,168.5,4
+Beans,Eastern,Isiolo,Biliqo,0.9,38.48,162.5,165,4
+Beans,Eastern,Isiolo,Boji,0.57,38.34,181.75,178.5,4
+Beans,Eastern,Isiolo,Bulesa Bulesa,0.96,38.54,153.5,145.5,4
+Beans,Eastern,Isiolo,Garbatulla,0.53,38.51,167.75,162.5,4
+Beans,Eastern,Isiolo,Iresaboru Centre,0.99,38.88,220,220,2
+Beans,Eastern,Isiolo,Isiolo town,0.35,37.58,114.84142857142857,115.56,7
+Beans,Eastern,Isiolo,Kinna,0.32,38.21,100,100,1
+Beans,Eastern,Isiolo,Kipsing CENTER,0.6,37.25,134.5,127.5,4
+Beans,Eastern,Isiolo,Kulamawe,0.57,38.2,100,100,1
+Beans,Eastern,Isiolo,Malka GALLA,1.27,38.8,199.75,191,4
+Beans,Eastern,Isiolo,Malkadaka,0.84,38.5,186.25,181.5,4
+Beans,Eastern,Isiolo,Merti CENTER,1.07,38.67,176.5,178.5,4
+Beans,Eastern,Isiolo,Modogashe,0.73,39.17,165,166.75,4
+Beans,Eastern,Isiolo,Oldonyiro,0.62,36.99,123.5,122.5,4
+Beans,Eastern,Isiolo,Sericho Center,1.13,39.1,179.5,177.5,4
+Beans,Eastern,Kitui,Kitui,-1.37,38.02,88.75,92,12
+Beans,Eastern,Makueni,Emali,-2.08,37.47,155,155,1
+Beans,Eastern,Makueni,Kibwezi,-2.41,37.97,150,150,1
+Beans,Eastern,Marsabit,Dirib,2.29,38.06,133.33333333333334,150,3
+Beans,Eastern,Marsabit,Dub Goba,2.33,38.03,119,123,3
+Beans,Eastern,Marsabit,Karare,2.21,37.89,143.66666666666666,145,3
+Beans,Eastern,Marsabit,Kargi,2.49,37.56,127.33333333333333,125,3
+Beans,Eastern,Marsabit,Kargi South Horr,2.1,36.92,150.5,149,3
+Beans,Eastern,Marsabit,Laisamis Town,1.58,37.8,152,152,2
+Beans,Eastern,Marsabit,Loglogo,1.99,37.92,146.33333333333334,149,3
+Beans,Eastern,Marsabit,Loyangalani,2.76,36.72,160,160,1
+Beans,Eastern,Marsabit,Maikona,2.92,37.63,100,100,1
+Beans,Eastern,Marsabit,Marsabit,2.33,37.98,147.5,145,4
+Beans,Eastern,Marsabit,Marsabit town,2.33,37.99,129.16666666666666,125,6
+Beans,Eastern,Marsabit,Merille Town,1.42,37.72,134,134,2
+Beans,Eastern,Marsabit,North Horr,3.32,37.07,113,113,1
+Beans,Eastern,Marsabit,Songa,2.25,38,149,150,3
+Beans,Eastern,Meru North,Kiwanja,0.44,37.6,113,113,2
+Beans,Eastern,Meru North,Ngaremara,0.5,37.64,116.25,114.5,4
+Beans,Eastern,Moyale,Dambala Fachana,3.51,38.75,120,120,1
+Beans,Eastern,Moyale,Moyale town,3.51,39.05,93,93,1
+Beans,Eastern,Moyale,Walda,3.45,38.52,101,101,1
+Beans,Nairobi,Nairobi,Dandora (Nairobi),-1.25,36.9,99.04583333333333,102,12
+Beans,Nairobi,Nairobi,Kangemi (Nairobi),-1.27,36.74,106.23538461538462,106.47,13
+Beans,Nairobi,Nairobi,Kawangware (Nairobi),-1.28,36.74,108.05166666666666,109.375,12
+Beans,Nairobi,Nairobi,Kibra (Nairobi),-1.32,36.78,111.77076923076923,115.4,13
+Beans,Nairobi,Nairobi,Mathare (Nairobi),-1.26,36.86,106.08500000000001,109.84,12
+Beans,Nairobi,Nairobi,Mukuru (Nairobi),-1.3,36.88,104.91416666666666,107.15,12
+Beans,Nairobi,Nairobi,Nairobi,-1.28,36.82,108,108,1
+Beans,North Eastern,Garissa,Alango Arba,-0.1,39.99,196.66666666666666,200,3
+Beans,North Eastern,Garissa,Alinjugur,-0.03,40.46,194,194,3
+Beans,North Eastern,Garissa,Baraki,0.65,39.58,171,168,3
+Beans,North Eastern,Garissa,Dadaab town,0.06,40.31,137.16666666666666,149.5,6
+Beans,North Eastern,Garissa,Dagahaley (Daadab),0.19,40.29,140.06680555555556,139.74,36
+Beans,North Eastern,Garissa,Damajale,0.1,40.78,158.5,158.5,2
+Beans,North Eastern,Garissa,Dertu,0.28,39.8,179.5,175,4
+Beans,North Eastern,Garissa,Garissa,-0.46,39.65,190,200,3
+Beans,North Eastern,Garissa,Garissa town (Garissa),-0.46,39.64,117.76777777777778,119,9
+Beans,North Eastern,Garissa,Hagadera (Daadab),0.01,40.37,129.28557142857142,132.21,35
+Beans,North Eastern,Garissa,IFO (Daadab),0.11,40.32,134.28279411764706,133.4375,34
+Beans,North Eastern,Garissa,Jarajara,-0.04,39.01,174.33333333333334,175,3
+Beans,North Eastern,Garissa,Liboi,0.35,40.87,160,160,2
+Beans,North Eastern,Garissa,Maalamin,0.38,39.35,167.66666666666666,180,3
+Beans,North Eastern,Garissa,Mathaxgesi,0.16,40.43,190,190,1
+Beans,North Eastern,Garissa,Nanigi,-0.85,39.87,159,160,3
+Beans,North Eastern,Garissa,Saretho,-0.03,40.13,185,180,3
+Beans,North Eastern,Garissa,Shanta Abak,0.46,39.74,178.25,175,4
+Beans,North Eastern,Ijara,Hara (Garissa),-1.85,40.23,188,188,1
+Beans,North Eastern,Ijara,Kotile,-1.97,40.21,143,143,1
+Beans,North Eastern,Mandera,Alungu,3.05,41.06,213,213,1
+Beans,North Eastern,Mandera,Ashabito,3.55,40.87,229.5,229.5,2
+Beans,North Eastern,Mandera,Banissa,3.94,40.34,227,227,1
+Beans,North Eastern,Mandera,El Wak,2.81,40.93,178.5,178.5,2
+Beans,North Eastern,Mandera,Kiliwaheri,3.92,40.01,235,235,2
+Beans,North Eastern,Mandera,Mandera,3.94,41.86,180,180,2
+Beans,North Eastern,Mandera,Mandera town,3.94,41.85,202.5,202.5,2
+Beans,North Eastern,Mandera,Rhamu,3.93,41.22,196,196,2
+Beans,North Eastern,Mandera,Takaba (Mandera),3.39,40.23,200,200,1
+Beans,North Eastern,Mandera,Warankara,3.41,41.01,200,200,1
+Beans,North Eastern,Wajir,Buna,2.79,39.5,190,190,1
+Beans,North Eastern,Wajir,Bute,3.36,39.42,179.75,174.5,4
+Beans,North Eastern,Wajir,Eldas,2.49,39.57,181.5,181.5,2
+Beans,North Eastern,Wajir,Griftu,2,39.75,171.5,171.5,2
+Beans,North Eastern,Wajir,Habaswein,1.02,39.49,168.33333333333334,163,3
+Beans,North Eastern,Wajir,Hadado,1.53,39.43,185.33333333333334,183,3
+Beans,North Eastern,Wajir,Lagbogol,1.29,39.84,181,180,3
+Beans,North Eastern,Wajir,Tarbaj,2.21,40.12,170,147,3
+Beans,North Eastern,Wajir,Wajir town,1.75,40.06,126.15428571428572,130,7
+Beans,Rift Valley,Baringo,Amaya,0.77,36.41,153,153,1
+Beans,Rift Valley,Baringo,Chemolingot,0.99,35.97,160.5,160.5,2
+Beans,Rift Valley,Baringo,Kimalel Center,0.47,35.9,150,150,1
+Beans,Rift Valley,Baringo,Loboi Center,0.36,36.06,158.5,158.5,2
+Beans,Rift Valley,Baringo,Marigat (Baringo),0.46,35.96,118.8175,118.5,12
+Beans,Rift Valley,Baringo,Marigat town (Baringo),0.47,35.98,95,95,6
+Beans,Rift Valley,Baringo,Nginyang,0.95,36.02,205.5,205.5,2
+Beans,Rift Valley,Kajiado,Kajiado,-1.84,36.79,100.45454545454545,101,11
+Beans,Rift Valley,Samburu,Archers Post,0.64,37.67,103,103,1
+Beans,Rift Valley,Samburu,Baragoi,1.65,37.03,110.75,106,4
+Beans,Rift Valley,Samburu,Kisima,0.95,36.77,190,190,1
+Beans,Rift Valley,Samburu,Lengusaka,0.88,37.32,160,160,2
+Beans,Rift Valley,Samburu,Lesirkan,1.78,36.97,161,160,3
+Beans,Rift Valley,Samburu,Lodungokwe,0.87,37,160.25,156.5,4
+Beans,Rift Valley,Samburu,Lolkuniyani,1.06,37.23,155.75,148.5,4
+Beans,Rift Valley,Samburu,Lolkunono,1.08,36.6,161.33333333333334,164,3
+Beans,Rift Valley,Samburu,Loosuk,1.02,36.58,163.66666666666666,153,3
+Beans,Rift Valley,Samburu,Lpus,0.89,37.06,164.25,161,4
+Beans,Rift Valley,Samburu,Maralal,1.1,36.7,150,149.5,4
+Beans,Rift Valley,Samburu,Masikita,1.61,36.95,160,160,1
+Beans,Rift Valley,Samburu,Nachola,1.8,36.7,124,124,1
+Beans,Rift Valley,Samburu,Ngilai,1.15,37.26,175,165,3
+Beans,Rift Valley,Samburu,Ngurunit,1.74,37.31,149.125,148.75,4
+Beans,Rift Valley,Samburu,Porro,1.22,36.6,179.66666666666666,171,3
+Beans,Rift Valley,Samburu,Simale,2.11,36.78,160,160,1
+Beans,Rift Valley,Samburu,Suguta,0.83,36.69,168.33333333333334,172,3
+Beans,Rift Valley,Samburu,Wamba,0.98,37.32,160,160,2
+Beans,Rift Valley,Turkana,Alemsekon,3.53,34.82,177.5,176,4
+Beans,Rift Valley,Turkana,Aposta,4.06,34.52,155.75,153.5,4
+Beans,Rift Valley,Turkana,Elelea,2.1,36.16,180.375,180.75,4
+Beans,Rift Valley,Turkana,Eliye Centre,3.24,36.02,165.66666666666666,167,3
+Beans,Rift Valley,Turkana,Ethiopia (Kakuma),3.72,34.85,145.96969696969697,150,33
+Beans,Rift Valley,Turkana,HongKong (Kakuma),3.75,34.84,155.71205882352942,164,34
+Beans,Rift Valley,Turkana,Kaakelai,4.52,35.59,142,140,3
+Beans,Rift Valley,Turkana,Kaeris,3.98,35.48,144.75,135,4
+Beans,Rift Valley,Turkana,Kaikor,4.52,35.42,132.66666666666666,120,3
+Beans,Rift Valley,Turkana,Kakuma 2,3.75,34.82,143.85942857142857,140,35
+Beans,Rift Valley,Turkana,Kakuma 3,3.77,34.82,148.12756756756755,148.89,37
+Beans,Rift Valley,Turkana,Kakuma 4,3.74,34.81,150.70685714285713,147.5,35
+Beans,Rift Valley,Turkana,Kakuma town,3.71,34.86,126,126,1
+Beans,Rift Valley,Turkana,Kalemgorok,2.14,35.5,164,160,4
+Beans,Rift Valley,Turkana,Kalemunyang,2.74,35.37,180.75,180,4
+Beans,Rift Valley,Turkana,Kaleng,4.37,35.55,140,140.5,4
+Beans,Rift Valley,Turkana,Kalobeyei (Village 1),3.77,34.73,143.6009375,139.82,32
+Beans,Rift Valley,Turkana,Kalobeyei (Village 2),3.76,34.75,142.32647058823528,139.66500000000002,34
+Beans,Rift Valley,Turkana,Kalobeyei (Village 3),3.75,34.76,134.76419354838708,120,31
+Beans,Rift Valley,Turkana,Kalokol,3.54,35.86,166.75,165,4
+Beans,Rift Valley,Turkana,Kang'akipur,2.38,36.04,188,188,1
+Beans,Rift Valley,Turkana,Kasuroi,2.48,35.66,166,166,1
+Beans,Rift Valley,Turkana,Kataboi,3.75,35.83,166.5,162.5,4
+Beans,Rift Valley,Turkana,Katilia,2.14,36.14,175,170.5,4
+Beans,Rift Valley,Turkana,Kibish,4.57,35.31,113,113,1
+Beans,Rift Valley,Turkana,Kokuro,4.62,35.71,183.75,192.5,4
+Beans,Rift Valley,Turkana,Letea,3.52,35.75,160.25,170,4
+Beans,Rift Valley,Turkana,Lodwar town,3.12,35.6,119.219,122,10
+Beans,Rift Valley,Turkana,Lokangae,4.1,34.9,167,162,3
+Beans,Rift Valley,Turkana,Lokapel,2.37,35.42,187.33333333333334,197,3
+Beans,Rift Valley,Turkana,Lokichar (Turkana),2.38,35.65,120,120,1
+Beans,Rift Valley,Turkana,Lokichoggio,4.2,34.36,153.5,143,4
+Beans,Rift Valley,Turkana,Lokiriama,2.76,34.88,146.66666666666666,150,3
+Beans,Rift Valley,Turkana,Lokitaung,4.27,35.75,114.75,113.5,4
+Beans,Rift Valley,Turkana,Lokori,1.95,36.03,157.75,155,4
+Beans,Rift Valley,Turkana,Lokwii,1.98,36.1,149,149,3
+Beans,Rift Valley,Turkana,Lolupe,3.54,35.25,150,150,4
+Beans,Rift Valley,Turkana,Lopur,3.86,34.82,159.5,160,4
+Beans,Rift Valley,Turkana,Lorengipi,2.58,34.99,110,110,1
+Beans,Rift Valley,Turkana,Lorugum,2.88,35.25,173.83333333333334,170,3
+Beans,Rift Valley,Turkana,Lotubae,2.02,36.13,146,153,3
+Beans,Rift Valley,Turkana,Loturerei,2.93,35.61,156.25,150.5,4
+Beans,Rift Valley,Turkana,Lowarengak,4.28,35.89,125.66666666666667,120,3
+Beans,Rift Valley,Turkana,Mogadishu (Kakuma),3.72,34.85,145.46,148.5,30
+Beans,Rift Valley,Turkana,Morulem,1.98,36.13,171,170,3
+Beans,Rift Valley,Turkana,Naakalei,2.54,36.22,178.25,187.5,4
+Beans,Rift Valley,Turkana,Naduat,3.51,35.19,173.25,172.5,4
+Beans,Rift Valley,Turkana,Nakinomet,4.58,35.4,147.5,152,4
+Beans,Rift Valley,Turkana,Nakukulas,2.2,35.81,163,160.5,4
+Beans,Rift Valley,Turkana,Namoruputh,2.84,35.04,165.25,156.5,4
+Beans,Rift Valley,Turkana,Napak,4.56,35.39,156,154.5,4
+Beans,Rift Valley,Turkana,Todonyang,4.44,35.93,123,123,1
+Beans,Rift Valley,Turkana,Turkwel Centre,2.92,35.4,167,156,3
+Beans,Rift Valley,Turkana,Urum,2.95,34.7,173.66666666666666,159,3
+Maize,Coast,Kilifi,Kilifi,-3.63,39.85,43.00833333333333,42.8,12
+Maize,Coast,Mombasa,Bangladesh (Mombasa),-4.01,39.63,50.834,51.67,5
+Maize,Coast,Mombasa,Junda (Mombasa),-4.01,39.68,56.51,57.03,6
+Maize,Coast,Mombasa,Kalahari (Mombasa),-4.03,39.63,52.57,52.915,8
+Maize,Coast,Mombasa,Kisumu Ndogo (Mombasa),-4.04,39.69,57,60,5
+Maize,Coast,Mombasa,Moroto (Mombasa),-4.03,39.66,51.168,51.67,5
+Maize,Coast,Mombasa,Shauri Yako,-4.04,39.69,62,62,2
+Maize,Coast,Mombasa,Shonda (Mombasa),-4.11,39.65,53.668,51.67,5
+Maize,Coast,Taita Taveta,Mtito Andei,-2.69,38.16,53,53,1
+Maize,Coast,Tana River,Bangale,-0.72,39.02,70,70,1
+Maize,Coast,Tana River,Boka,-0.34,38.78,87.33333333333333,80,3
+Maize,Coast,Tana River,Bura,-1.19,39.84,72.75,78,4
+Maize,Coast,Tana River,Charidende,-0.78,39.67,110,110,2
+Maize,Coast,Tana River,Garsen,-2.27,40.11,89.83333333333333,86.5,3
+Maize,Coast,Tana River,Hola town,-1.5,40.03,70,67,4
+Maize,Coast,Tana River,Kipini,-2.53,40.53,51.5,51.5,2
+Maize,Coast,Tana River,Makere,-1.33,40.01,79.33333333333333,78,3
+Maize,Coast,Tana River,Minjila,-2.32,40.11,80,80,1
+Maize,Coast,Tana River,Saka Town,-0.14,39.33,98.5,103.5,4
+Maize,Coast,Tana River,Tarasaa,-2.44,40.17,64.66666666666667,60,3
+Maize,Coast,Tana River,Waldena,-1.61,39.03,70,70,1
+Maize,Coast,Tana River,Wayu,-1.53,39.58,85,85,2
+Maize,Eastern,Isiolo,Benane,0.5,38.66,101.75,100,4
+Maize,Eastern,Isiolo,Biliqo,0.9,38.48,96.66666666666667,100,3
+Maize,Eastern,Isiolo,Boji,0.57,38.34,80,80,1
+Maize,Eastern,Isiolo,Bulesa Bulesa,0.96,38.54,107.5,107.5,2
+Maize,Eastern,Isiolo,Garbatulla,0.53,38.51,86.5,86.5,2
+Maize,Eastern,Isiolo,Isiolo town,0.35,37.58,59.76833333333333,62.22,6
+Maize,Eastern,Isiolo,Kipsing CENTER,0.6,37.25,64,60,4
+Maize,Eastern,Isiolo,Malka GALLA,1.27,38.8,115,115,2
+Maize,Eastern,Isiolo,Malkadaka,0.84,38.5,86.66666666666667,80,3
+Maize,Eastern,Isiolo,Merti CENTER,1.07,38.67,85,85,2
+Maize,Eastern,Isiolo,Modogashe,0.73,39.17,104.5,100.5,4
+Maize,Eastern,Isiolo,Oldonyiro,0.62,36.99,60.5,58.5,4
+Maize,Eastern,Isiolo,Sericho Center,1.13,39.1,100,100,1
+Maize,Eastern,Kitui,Kitui,-1.37,38.02,33.833333333333336,33.5,12
+Maize,Eastern,Makueni,Emali,-2.08,37.47,53,53,1
+Maize,Eastern,Makueni,Kibwezi,-2.41,37.97,56,56,1
+Maize,Eastern,Marsabit,Dirib,2.29,38.06,60,60,2
+Maize,Eastern,Marsabit,Dub Goba,2.33,38.03,55.666666666666664,50,3
+Maize,Eastern,Marsabit,Karare,2.21,37.89,86.66666666666667,83,3
+Maize,Eastern,Marsabit,Kargi,2.49,37.56,69.5,67,4
+Maize,Eastern,Marsabit,Kargi South Horr,2.1,36.92,72.33333333333333,71,3
+Maize,Eastern,Marsabit,Korr,2.01,37.5,85.5,83.5,4
+Maize,Eastern,Marsabit,Laisamis Town,1.58,37.8,84,82.5,4
+Maize,Eastern,Marsabit,Loglogo,1.99,37.92,92.66666666666667,91,3
+Maize,Eastern,Marsabit,Loyangalani,2.76,36.72,77.5,79,4
+Maize,Eastern,Marsabit,Maikona,2.92,37.63,63,63,1
+Maize,Eastern,Marsabit,Marsabit,2.33,37.98,51.76923076923077,47,13
+Maize,Eastern,Marsabit,Marsabit town,2.33,37.99,40,40,2
+Maize,Eastern,Marsabit,Merille Town,1.42,37.72,77.33333333333333,79,3
+Maize,Eastern,Marsabit,North Horr,3.32,37.07,50,50,1
+Maize,Eastern,Marsabit,Songa,2.25,38,72.33333333333333,67,3
+Maize,Eastern,Meru North,Kiwanja,0.44,37.6,72.5,72.5,2
+Maize,Eastern,Meru North,Ngaremara,0.5,37.64,65.75,66.5,4
+Maize,Eastern,Moyale,Dambala Fachana,3.51,38.75,90,90,1
+Maize,Eastern,Moyale,Moyale town,3.51,39.05,70,70,1
+Maize,Eastern,Moyale,Walda,3.45,38.52,76,76,1
+Maize,Nairobi,Nairobi,Dandora (Nairobi),-1.25,36.9,49.26166666666667,49,12
+Maize,Nairobi,Nairobi,Kangemi (Nairobi),-1.27,36.74,49.36846153846154,50,13
+Maize,Nairobi,Nairobi,Kawangware (Nairobi),-1.28,36.74,49.24666666666667,49.44,12
+Maize,Nairobi,Nairobi,Kibra (Nairobi),-1.32,36.78,48.542307692307695,50,13
+Maize,Nairobi,Nairobi,Mathare (Nairobi),-1.26,36.86,49.79,50,12
+Maize,Nairobi,Nairobi,Mukuru (Nairobi),-1.3,36.88,49.73166666666667,50,12
+Maize,Nairobi,Nairobi,Nairobi,-1.28,36.82,52,52,1
+Maize,North Eastern,Garissa,Alinjugur,-0.03,40.46,122.5,122.5,2
+Maize,North Eastern,Garissa,Baraki,0.65,39.58,85,85,2
+Maize,North Eastern,Garissa,Dadaab town,0.06,40.31,107.5,107.5,2
+Maize,North Eastern,Garissa,Dagahaley (Daadab),0.19,40.29,69.90309523809523,62,21
+Maize,North Eastern,Garissa,Dertu,0.28,39.8,102.33333333333333,100,3
+Maize,North Eastern,Garissa,Garissa,-0.46,39.65,78.75,70,12
+Maize,North Eastern,Garissa,Garissa town (Garissa),-0.46,39.64,67.64888888888889,68.75,9
+Maize,North Eastern,Garissa,Hagadera (Daadab),0.01,40.37,59.638939393939395,55,33
+Maize,North Eastern,Garissa,IFO (Daadab),0.11,40.32,66.66279411764705,68.27,34
+Maize,North Eastern,Garissa,Jarajara,-0.04,39.01,92.33333333333333,100,3
+Maize,North Eastern,Garissa,Liboi,0.35,40.87,127,127,1
+Maize,North Eastern,Garissa,Maalamin,0.38,39.35,101.5,101.5,2
+Maize,North Eastern,Garissa,Nanigi,-0.85,39.87,92.5,92.5,2
+Maize,North Eastern,Garissa,Saretho,-0.03,40.13,100,100,1
+Maize,North Eastern,Garissa,Shanta Abak,0.46,39.74,93.33333333333333,100,3
+Maize,North Eastern,Mandera,Alungu,3.05,41.06,80,80,1
+Maize,North Eastern,Mandera,Ashabito,3.55,40.87,97,97,1
+Maize,North Eastern,Mandera,Kiliwaheri,3.92,40.01,115,115,1
+Maize,North Eastern,Mandera,Mandera,3.94,41.86,82.6923076923077,82,13
+Maize,North Eastern,Mandera,Mandera town,3.94,41.85,117.5,117.5,2
+Maize,North Eastern,Mandera,Rhamu,3.93,41.22,136,136,2
+Maize,North Eastern,Mandera,Warankara,3.41,41.01,80,80,1
+Maize,North Eastern,Wajir,Bute,3.36,39.42,99.5,96.5,4
+Maize,North Eastern,Wajir,Eldas,2.49,39.57,100.75,100,4
+Maize,North Eastern,Wajir,Griftu,2,39.75,96.75,103,4
+Maize,North Eastern,Wajir,Habaswein,1.02,39.49,100,95,3
+Maize,North Eastern,Wajir,Hadado,1.53,39.43,100.33333333333333,100,3
+Maize,North Eastern,Wajir,Lagbogol,1.29,39.84,99,100,3
+Maize,North Eastern,Wajir,Tarbaj,2.21,40.12,112.25,114,4
+Maize,North Eastern,Wajir,Wajir town,1.75,40.06,50,50,7
+Maize,Rift Valley,Baringo,Amaya,0.77,36.41,85,85,1
+Maize,Rift Valley,Baringo,Chemolingot,0.99,35.97,84,84,2
+Maize,Rift Valley,Baringo,Marigat (Baringo),0.46,35.96,45.125,46.5,12
+Maize,Rift Valley,Baringo,Marigat town (Baringo),0.47,35.98,35,35,6
+Maize,Rift Valley,Baringo,Nginyang,0.95,36.02,80,80,2
+Maize,Rift Valley,Kajiado,Kajiado,-1.84,36.79,52.45454545454545,53,11
+Maize,Rift Valley,Samburu,Archers Post,0.64,37.67,50,50,1
+Maize,Rift Valley,Samburu,Baragoi,1.65,37.03,59.25,59.5,4
+Maize,Rift Valley,Samburu,Kisima,0.95,36.77,53,53,1
+Maize,Rift Valley,Samburu,Lengusaka,0.88,37.32,70,70,1
+Maize,Rift Valley,Samburu,Lesirkan,1.78,36.97,66,60,3
+Maize,Rift Valley,Samburu,Lodungokwe,0.87,37,61,58.5,4
+Maize,Rift Valley,Samburu,Lolkuniyani,1.06,37.23,68,63,4
+Maize,Rift Valley,Samburu,Lolkunono,1.08,36.6,58,58,2
+Maize,Rift Valley,Samburu,Loosuk,1.02,36.58,58.5,58.5,2
+Maize,Rift Valley,Samburu,Lpus,0.89,37.06,63.333333333333336,65,3
+Maize,Rift Valley,Samburu,Maralal,1.1,36.7,61.333333333333336,60,3
+Maize,Rift Valley,Samburu,Masikita,1.61,36.95,50,50,1
+Maize,Rift Valley,Samburu,Nachola,1.8,36.7,52,52,1
+Maize,Rift Valley,Samburu,Ngilai,1.15,37.26,85,80,3
+Maize,Rift Valley,Samburu,Ngurunit,1.74,37.31,94.25,97,4
+Maize,Rift Valley,Samburu,Porro,1.22,36.6,56.5,56.5,2
+Maize,Rift Valley,Samburu,Suguta,0.83,36.69,56.75,58,4
+Maize,Rift Valley,Samburu,Wamba,0.98,37.32,68.25,65,4
+Maize,Rift Valley,Turkana,Alemsekon,3.53,34.82,87,89,4
+Maize,Rift Valley,Turkana,Aposta,4.06,34.52,95.75,98,4
+Maize,Rift Valley,Turkana,Elelea,2.1,36.16,100.75,103.5,4
+Maize,Rift Valley,Turkana,Eliye Centre,3.24,36.02,109,90,3
+Maize,Rift Valley,Turkana,Ethiopia (Kakuma),3.72,34.85,61.2096875,53.335,32
+Maize,Rift Valley,Turkana,HongKong (Kakuma),3.75,34.84,60.4990625,57.085,32
+Maize,Rift Valley,Turkana,Kaakelai,4.52,35.59,105,105,3
+Maize,Rift Valley,Turkana,Kaeris,3.98,35.48,101.25,100,4
+Maize,Rift Valley,Turkana,Kaikor,4.52,35.42,99.5,100,3
+Maize,Rift Valley,Turkana,Kakuma 2,3.75,34.82,56.20885714285714,51.5,35
+Maize,Rift Valley,Turkana,Kakuma 3,3.77,34.82,59.51714285714286,58.33,35
+Maize,Rift Valley,Turkana,Kakuma 4,3.74,34.81,56.60028571428571,52.5,35
+Maize,Rift Valley,Turkana,Kakuma town,3.71,34.86,58,58,1
+Maize,Rift Valley,Turkana,Kalemgorok,2.14,35.5,71.5,70,4
+Maize,Rift Valley,Turkana,Kalemunyang,2.74,35.37,91.75,83.5,4
+Maize,Rift Valley,Turkana,Kaleng,4.37,35.55,96.25,97,4
+Maize,Rift Valley,Turkana,Kalobeyei (Village 1),3.77,34.73,54.59486486486487,51.25,37
+Maize,Rift Valley,Turkana,Kalobeyei (Village 2),3.76,34.75,57.22235294117647,51.25,34
+Maize,Rift Valley,Turkana,Kalobeyei (Village 3),3.75,34.76,55.48074074074074,50,27
+Maize,Rift Valley,Turkana,Kalobeyei town,3.77,34.62,92,92,1
+Maize,Rift Valley,Turkana,Kalokol,3.54,35.86,90,83,4
+Maize,Rift Valley,Turkana,Kang'akipur,2.38,36.04,100,100,1
+Maize,Rift Valley,Turkana,Kasuroi,2.48,35.66,83,83,1
+Maize,Rift Valley,Turkana,Kataboi,3.75,35.83,88.25,94,4
+Maize,Rift Valley,Turkana,Katilia,2.14,36.14,104.5,108.5,4
+Maize,Rift Valley,Turkana,Kibish,4.57,35.31,100,100,1
+Maize,Rift Valley,Turkana,Kokuro,4.62,35.71,100.625,100,4
+Maize,Rift Valley,Turkana,Letea,3.52,35.75,78,80,4
+Maize,Rift Valley,Turkana,Lodwar (Turkana),3.12,35.6,66.7,66.5,10
+Maize,Rift Valley,Turkana,Lodwar town,3.12,35.6,51.51,48.75,10
+Maize,Rift Valley,Turkana,Lokangae,4.1,34.9,92.66666666666667,95,3
+Maize,Rift Valley,Turkana,Lokapel,2.37,35.42,86,83,3
+Maize,Rift Valley,Turkana,Lokichar (Turkana),2.38,35.65,91.66666666666667,80,3
+Maize,Rift Valley,Turkana,Lokichoggio,4.2,34.36,82.75,88.5,4
+Maize,Rift Valley,Turkana,Lokiriama,2.76,34.88,100.33333333333333,100,3
+Maize,Rift Valley,Turkana,Lokitaung,4.27,35.75,88.5,86,4
+Maize,Rift Valley,Turkana,Lokori,1.95,36.03,94.75,93,4
+Maize,Rift Valley,Turkana,Lokwii,1.98,36.1,93.33333333333333,100,3
+Maize,Rift Valley,Turkana,Lolupe,3.54,35.25,88.75,90,4
+Maize,Rift Valley,Turkana,Lopur,3.86,34.82,98.5,100,4
+Maize,Rift Valley,Turkana,Lorengipi,2.58,34.99,108,108,1
+Maize,Rift Valley,Turkana,Lorugum,2.88,35.25,89.83333333333333,90,3
+Maize,Rift Valley,Turkana,Lotubae,2.02,36.13,101,95,3
+Maize,Rift Valley,Turkana,Loturerei,2.93,35.61,94.25,92,4
+Maize,Rift Valley,Turkana,Lowarengak,4.28,35.89,79.33333333333333,80,3
+Maize,Rift Valley,Turkana,Mogadishu (Kakuma),3.72,34.85,61.372,60,30
+Maize,Rift Valley,Turkana,Morulem,1.98,36.13,96.5,96.5,2
+Maize,Rift Valley,Turkana,Naakalei,2.54,36.22,92.5,97.5,4
+Maize,Rift Valley,Turkana,Naduat,3.51,35.19,93.75,91.5,4
+Maize,Rift Valley,Turkana,Nakinomet,4.58,35.4,109.75,105,4
+Maize,Rift Valley,Turkana,Nakukulas,2.2,35.81,92.75,91.5,4
+Maize,Rift Valley,Turkana,Namoruputh,2.84,35.04,109.75,100,4
+Maize,Rift Valley,Turkana,Napak,4.56,35.39,111.25,108.5,4
+Maize,Rift Valley,Turkana,Todonyang,4.44,35.93,83,83,1
+Maize,Rift Valley,Turkana,Turkwel Centre,2.92,35.4,76.33333333333333,68,3
+Maize,Rift Valley,Turkana,Urum,2.95,34.7,94.5,94.5,2

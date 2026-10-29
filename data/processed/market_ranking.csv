@@ -1,0 +1,41 @@
+crop,admin1,admin2,market,latitude,longitude,mean_price,median_price,n,group
+Beans,Rift Valley,Turkana,HongKong (Kakuma),3.75,34.84,155.71205882352942,164,34,Most expensive
+Beans,Rift Valley,Turkana,Kakuma 4,3.74,34.81,150.70685714285713,147.5,35,Most expensive
+Beans,Rift Valley,Turkana,Kakuma 3,3.77,34.82,148.12756756756755,148.89,37,Most expensive
+Beans,Rift Valley,Turkana,Ethiopia (Kakuma),3.72,34.85,145.96969696969697,150,33,Most expensive
+Beans,Rift Valley,Turkana,Mogadishu (Kakuma),3.72,34.85,145.46,148.5,30,Most expensive
+Beans,Rift Valley,Turkana,Kakuma 2,3.75,34.82,143.85942857142857,140,35,Most expensive
+Beans,Rift Valley,Turkana,Kalobeyei (Village 1),3.77,34.73,143.6009375,139.82,32,Most expensive
+Beans,Rift Valley,Turkana,Kalobeyei (Village 2),3.76,34.75,142.32647058823528,139.66500000000002,34,Most expensive
+Beans,North Eastern,Garissa,Dagahaley (Daadab),0.19,40.29,140.06680555555556,139.74,36,Most expensive
+Beans,North Eastern,Garissa,Dadaab town,0.06,40.31,137.16666666666666,149.5,6,Most expensive
+Beans,Coast,Kilifi,Kilifi,-3.63,39.85,105.06666666666666,105.95,12,Least expensive
+Beans,Nairobi,Nairobi,Mukuru (Nairobi),-1.3,36.88,104.91416666666666,107.15,12,Least expensive
+Beans,Coast,Mombasa,Bangladesh (Mombasa),-4.01,39.63,104.71714285714286,106.36,7,Least expensive
+Beans,Coast,Mombasa,Kalahari (Mombasa),-4.03,39.63,102.34777777777778,103.75,9,Least expensive
+Beans,Rift Valley,Kajiado,Kajiado,-1.84,36.79,100.45454545454545,101,11,Least expensive
+Beans,Coast,Mombasa,Junda (Mombasa),-4.01,39.68,99.66,100,7,Least expensive
+Beans,Nairobi,Nairobi,Dandora (Nairobi),-1.25,36.9,99.04583333333333,102,12,Least expensive
+Beans,Coast,Mombasa,Shonda (Mombasa),-4.11,39.65,98.77833333333334,99.375,6,Least expensive
+Beans,Rift Valley,Baringo,Marigat town (Baringo),0.47,35.98,95,95,6,Least expensive
+Beans,Eastern,Kitui,Kitui,-1.37,38.02,88.75,92,12,Least expensive
+Maize,North Eastern,Mandera,Mandera,3.94,41.86,82.6923076923077,82,13,Most expensive
+Maize,North Eastern,Garissa,Garissa,-0.46,39.65,78.75,70,12,Most expensive
+Maize,North Eastern,Garissa,Dagahaley (Daadab),0.19,40.29,69.90309523809523,62,21,Most expensive
+Maize,North Eastern,Garissa,Garissa town (Garissa),-0.46,39.64,67.64888888888889,68.75,9,Most expensive
+Maize,Rift Valley,Turkana,Lodwar (Turkana),3.12,35.6,66.7,66.5,10,Most expensive
+Maize,North Eastern,Garissa,IFO (Daadab),0.11,40.32,66.66279411764705,68.27,34,Most expensive
+Maize,Rift Valley,Turkana,Mogadishu (Kakuma),3.72,34.85,61.372,60,30,Most expensive
+Maize,Rift Valley,Turkana,Ethiopia (Kakuma),3.72,34.85,61.2096875,53.335,32,Most expensive
+Maize,Rift Valley,Turkana,HongKong (Kakuma),3.75,34.84,60.4990625,57.085,32,Most expensive
+Maize,Eastern,Isiolo,Isiolo town,0.35,37.58,59.76833333333333,62.22,6,Most expensive
+Maize,Nairobi,Nairobi,Mathare (Nairobi),-1.26,36.86,49.79,50,12,Least expensive
+Maize,Nairobi,Nairobi,Mukuru (Nairobi),-1.3,36.88,49.73166666666667,50,12,Least expensive
+Maize,Nairobi,Nairobi,Kangemi (Nairobi),-1.27,36.74,49.36846153846154,50,13,Least expensive
+Maize,Nairobi,Nairobi,Dandora (Nairobi),-1.25,36.9,49.26166666666667,49,12,Least expensive
+Maize,Nairobi,Nairobi,Kawangware (Nairobi),-1.28,36.74,49.24666666666667,49.44,12,Least expensive
+Maize,Nairobi,Nairobi,Kibra (Nairobi),-1.32,36.78,48.542307692307695,50,13,Least expensive
+Maize,Rift Valley,Baringo,Marigat (Baringo),0.46,35.96,45.125,46.5,12,Least expensive
+Maize,Coast,Kilifi,Kilifi,-3.63,39.85,43.00833333333333,42.8,12,Least expensive
+Maize,Rift Valley,Baringo,Marigat town (Baringo),0.47,35.98,35,35,6,Least expensive
+Maize,Eastern,Kitui,Kitui,-1.37,38.02,33.833333333333336,33.5,12,Least expensive

@@ -1,0 +1,11 @@
+crop,admin1,mean_price,median_price,n,markets
+Beans,Coast,133.83839622641509,123,106,25
+Beans,Eastern,141.85325,139,120,38
+Beans,Nairobi,106.1232,106.47,75,7
+Beans,North Eastern,151.78820197044334,150,203,39
+Beans,Rift Valley,147.9797966728281,149,541,81
+Maize,Coast,62.89719512195122,56.67,82,22
+Maize,Eastern,70.01412280701754,70,114,36
+Maize,Nairobi,49.349333333333334,50,75,7
+Maize,North Eastern,77.6198087431694,71.67,183,30
+Maize,Rift Valley,67.76693160813309,65,541,80
